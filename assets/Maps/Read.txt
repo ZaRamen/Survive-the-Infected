@@ -1,0 +1,7 @@
+//note to self make sure tilesets are power of 2 on both width and height
+//or else you'll get nasty lines that pop up in between tiles
+//i.e 256 by 256 and not 192(not power of 2) by 256
+//also enemies and bullets spawn on bottom left for some reason and the way to fix it
+//is to do sprite.setPosition(x, y) in the render method
+//If you full screen the main menu then play the game, then it fits the whole game
+//I think this has to do with the Gdx.graphics.getWidth() returning the size of the screen.
