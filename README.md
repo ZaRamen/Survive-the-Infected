@@ -1,5 +1,5 @@
 # Survive-the-Infected
-A shoot em up type of game that is based off the game boxhead.
+A shoot em up type of game that is based off the game boxhead with the libgdx framework(actually hate)
 
 Extra Tutorial tips that I forgot to put in the game:
 
@@ -13,3 +13,4 @@ Extra Tutorial tips that I forgot to put in the game:
 - The game is endless and Press P to pause the game
 
 - Made for my marking period 4 project for my csa class during teh months of May - June 2022
+- Was made with a lot of stackoverlow, game dev exchange and not the cleanest of code.
