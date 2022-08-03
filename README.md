@@ -6,8 +6,8 @@ Extra Tutorial tips that I forgot to put in the game:
 - Lvl 2 - unlock MachineGun
 - Lvl 3 - unlock RocketLauncher
 - Lvl 4 - unlock Raygun
-- Note for all of these you get them in the first lootbox for that level 
-- (if you pass that level without picking up a lootbox you miss the opportunity to get it again) (slight bug)
+- Note for all of these you get the new weapons after reaching that level and collecting a lootbox
+- (if you pass that level without picking up a lootbox you miss the opportunity to get it again) (big bug, time will tell when I fix it)
 
 - Use the numbers 1, 2, 3, 4 to switch weapons
 - The game is endless and Press P to pause the game
