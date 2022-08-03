@@ -1,5 +1,5 @@
 # Survive-the-Infected
-A shoot em up type of game that is based off the game boxhead with the libgdx framework(actually hate)
+A shoot em up type of game that is based off the game boxhead with the libgdx framework
 
 Extra Tutorial tips that I forgot to put in the game:
 
