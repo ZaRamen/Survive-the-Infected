@@ -1,8 +1,8 @@
 # Survive-the-Infected
-## A shoot em up type of game that is based off the game boxhead with the libgdx framework.
+### A shoot em up type of game that is based off the game boxhead with the libgdx framework.
 ### To play the game go to desktop/src/com/mygdx/game/ and run desktoplauncher.java
 
-Extra Tutorial tips that I forgot to put in the game:
+## Extra Tutorial tips that I forgot to put in the game:
 
 - Lvl 2 - unlock MachineGun
 - Lvl 3 - unlock RocketLauncher
